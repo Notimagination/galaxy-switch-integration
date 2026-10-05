@@ -8,6 +8,8 @@
 
 * **Emulator Support:** Multiple emulators are supported (Eden has the best compatibility and it's used as default).
 
+* **Long-Term Maintenance:** Ongoing plugin maintenance with regular updates, new features, and bug fixes.
+
 ## 📌 Other emulator plugins
 
 | Integration | Status | Achievements | Game Time | Download |
