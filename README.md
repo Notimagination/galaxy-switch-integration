@@ -1,6 +1,6 @@
 # GOG Galaxy Nintendo Switch Integration
 
-> **Disclaimer:** This is the first and likely the final version of this plugin. However, I will monitor and address specific issues such as game detection if they arise.
+> **Disclaimer:** This is an adapted version of the PS2 Plugin for Nintendo Switch.
 
 ## ✨ Features
 
