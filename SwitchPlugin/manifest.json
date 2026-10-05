@@ -1,0 +1,11 @@
+{
+    "name": "Galaxy Nintendo Switch Integration",
+    "platform": "nswitch",
+    "guid": "fce8dabb-edad-4636-8bdc-09c66f87c4ed",
+    "version": "0.4.0",
+    "description": "Nintendo Switch local game integration for GOG Galaxy 2.1+ with Title ID detection (file name, NSP/NSZ tickets, name catalogue), official names, multi-emulator launching and playtime tracking",
+    "author": "Notimagination",
+    "email": "Notimagination@users.noreply.github.com",
+    "url": "https://github.com/Notimagination",
+    "script": "plugin.py"
+}
