@@ -6,7 +6,7 @@
 
 * **File Support:** Supports all Nintendo Switch files.
 
-* **Integrated Playtime:** Playtime tracking is now directly linked to the GOG system.
+* **Integrated Playtime:** Playtime tracking is directly linked to the GOG system.
 
 * **Emulator Support:** Multiple emulators are supported (Eden has the best compatibility and it's used as default).
 
