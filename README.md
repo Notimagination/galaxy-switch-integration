@@ -1,6 +1,6 @@
 # GOG Galaxy Nintendo Switch Integration
 
-> **Disclaimer:** This is an adapted version of the PS2 Plugin for Nintendo Switch.
+> **Disclaimer:** This is an adapted version of the [PS2 Plugin](https://github.com/Notimagination/galaxy-ps2-integration-renew) for Nintendo Switch.
 
 ## ✨ Features
 
