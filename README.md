@@ -28,10 +28,6 @@
 
 4. Configure your paths:
 
-   * Game paths must use backslashes (`\`).
-
-   * Emulator paths must use forward slashes (`/`).
-
    <img width="598" height="1457" alt="step3" src="https://github.com/user-attachments/assets/40ccbbe1-35bc-4fcd-a249-1351e5c3ac68" />
 
 5. Click the **Save config** button and wait for your games to import.
