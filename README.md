@@ -12,9 +12,9 @@
 
 ## 📦 Installation Guide
 
-1. Download the `.zip` file from this repository, or you can check the [releases](https://github.com/Notimagination/galaxy-ps2-integration-renew/releases) page for the latest updates.
+1. Download the `.zip` file from this repository, or you can check the [releases](https://github.com/Notimagination/galaxy-switch-integration/releases) page for the latest updates.
    
- <img width="969" height="407" alt="step1" src="https://github.com/user-attachments/assets/4c9b1ce5-a46a-41bb-9bbf-39ea150d5f7a" />
+ <img width="930" height="351" alt="Captura de pantalla 2026-10-04 215901" src="https://github.com/user-attachments/assets/e9b32e34-fd6e-4b3e-8412-d43addc2ae3d" />
 
 2. Extract and move the `SwitchPlugin` folder to your GOG Galaxy plugins directory:
 
