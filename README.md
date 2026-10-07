@@ -8,8 +8,6 @@
 
 * **Emulator Support:** Multiple emulators are supported (Eden has the best compatibility and it's used as default).
 
-* **Import metadata:** Import tags so you can organize games using tags.
-
 * **Long-Term Maintenance:** Ongoing plugin maintenance with regular updates, new features, and bug fixes.
 
 ## 📌 Other emulator plugins
