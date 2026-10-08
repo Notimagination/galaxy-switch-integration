@@ -14,10 +14,10 @@
 
 | Integration | Status | Achievements | Game Time | Download |
 |-------------|--------|--------------|-----------|----------|
-| PS2 | ✅ Released | ❌ | ✅ | [Download](https://github.com/Notimagination/galaxy-ps2-integration-renew/tree/main) |
-| NES | ✅ Released | ❌ | ✅ | [Download](https://github.com/Notimagination/galaxy-nes-integration) |
-| PSP | ⏳ Planned | ❌ | ✅ | Download |
-| WII | ⏳ Planned | ❌ | ✅ | Download |
+| PS2 | ✅ Released | ⚠️ | ✅ | [Download](https://github.com/Notimagination/galaxy-ps2-integration-renew/tree/main) |
+| NES | ✅ Released | ⚠️ / ❌ | ✅ | [Download](https://github.com/Notimagination/galaxy-nes-integration) |
+| PSP | ⏳ Planned | ⚠️ | ✅ | Download |
+| WII | ⏳ Planned | ⚠️ | ✅ | Download |
 | PS3 | ⏳ Planned | ❌ | ✅ | Download |
 | Local games | ⏳ Planned | ❌ | ✅ | Download |
 
