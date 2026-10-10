@@ -54,7 +54,7 @@ If you would like me to add support for a missing game in a future update, pleas
 
 * **Game Name**
 * **Title Number**
-* **The log file** generated at `%programdata%\GOG.com\Galaxy` (`plugin-nswitch-fce8dabb-edad-4636-8bdc-09c66f87c4ed.log`)
+* **The log file** generated at`%programdata%\GOG.com\Galaxy`(`plugin-nswitch-fce8dabb-edad-4636-8bdc-09c66f87c4ed.log`)
 
 🎫 **Open a ticket on the [Issues](https://github.com/Notimagination/galaxy-ps2-integration-renew/issues) page**.
 
